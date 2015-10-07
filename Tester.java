@@ -23,6 +23,8 @@ public class Tester {
 		t.display();
 		// TODO Auto-generated method stub
 		System.out.println ("All done!");
+		
+		System.out.println ("One more All done!");
 	}
 
 }
