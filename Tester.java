@@ -22,7 +22,7 @@ public class Tester {
 		t.increment();
 		t.display();
 		// TODO Auto-generated method stub
-		
+		System.out.println ("All done!");
 	}
 
 }
